@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/path_provider_foundation-master.dia",
+    "emit-module-dependencies" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/path_provider_foundation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/path_provider_foundation-master-emit-module.dia",
+    "swift-dependencies" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/path_provider_foundation-master.swiftdeps"
+  },
+  "/Users/adityachauhan/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0/darwin/path_provider_foundation/Sources/path_provider_foundation/messages.g.swift" : {
+    "const-values" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/messages.g.swiftconstvalues",
+    "dependencies" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/messages.g.d",
+    "diagnostics" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/messages.g.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/messages.g.o",
+    "llvm-bc" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/messages.g.bc",
+    "object" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/messages.g.o",
+    "swift-dependencies" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/messages.g.swiftdeps",
+    "swiftmodule" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/messages.g~partial.swiftmodule"
+  },
+  "/Users/adityachauhan/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0/darwin/path_provider_foundation/Sources/path_provider_foundation/PathProviderPlugin.swift" : {
+    "const-values" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/PathProviderPlugin.swiftconstvalues",
+    "dependencies" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/PathProviderPlugin.d",
+    "diagnostics" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/PathProviderPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/PathProviderPlugin.o",
+    "llvm-bc" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/PathProviderPlugin.bc",
+    "object" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/PathProviderPlugin.o",
+    "swift-dependencies" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/PathProviderPlugin.swiftdeps",
+    "swiftmodule" : "/Users/adityachauhan/Downloads/Flutter Development/starbucks_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/path_provider_foundation.build/Objects-normal/arm64/PathProviderPlugin~partial.swiftmodule"
+  }
+}
